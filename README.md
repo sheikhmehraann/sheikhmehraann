@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a security researcher and Android low-level developer specializing in **MediaTek ARM64 bootloader exploitation (LK / Preloader)**, **hardware-level AVB & lock state spoofing**, **KernelSU integration**, and **AOSP / XOS 15 ROM porting**.
+I am an Android low-level developer and security researcher specializing in **MediaTek ARM64 bootloader exploitation (LK / Preloader)**, **hardware-level AVB & lock state spoofing**, **KernelSU integration**, and **AOSP / XOS 15 ROM porting**.
 
 - 🔭 **Currently Working On**: Maintenance & enhancement of [Fenrir X6871](https://github.com/sheikhmehraann/fenrir) for MediaTek Dimensity 8200 platforms.
 - ⚡ **Core Focus**: Bypassing bootchain verification at EL3, kernel VFS mount isolation, and native ROM-level root concealment.
@@ -36,22 +36,23 @@ I am a security researcher and Android low-level developer specializing in **Med
 
 ---
 
-## 🏆 Featured Repositories
-
-<div align="center">
+## 🏆 Featured Projects & Open Source Repositories
 
 ### 🐺 [Fenrir — Infinix GT 20 Pro (X6871)](https://github.com/sheikhmehraann/fenrir)
-*PoC exploit and patch framework for MediaTek Dimensity EL3 bootchain vulnerabilities on Infinix GT 20 Pro (`X6871`).*
+*Official MediaTek EL3 Bootchain Exploit & Hardware Patch Framework featuring Infinix GT 20 Pro (`X6871`).*
+- 🟢 **Hardware AVB GREEN State Spoofing** (Passes Play Integrity & SafetyNet)
+- 🔒 **Hardware LKS_LOCK Status Spoofing** (Widevine L1 & Banking Apps)
+- 🔓 **Unrestricted Fastboot Command Execution & Flash Unlock**
+- 🛠️ Includes **Windows 1-Click Builder** (`build.py`) & **Fastboot Flasher** (`flash.py`)
 
-```text
-• 🟢 Hardware AVB GREEN State Spoofing (Passes Play Integrity & SafetyNet)
-• 🔒 Hardware LKS_LOCK Status Spoofing (Widevine L1 & Banking Apps)
-• 🔓 Unrestricted Fastboot Command Execution & Flash Unlock
-• ⌨️ Direct Hardware Volume Key Bootloader Navigation
-• 🛠️ Includes Windows 1-Click Builder (build.py) & Fastboot Flasher (flash.py)
-```
+### ⚡ [Disable-Vbmeta-Flashable](https://github.com/sheikhmehraann/Disable-Vbmeta-Flashable)
+*Universal Recovery Flashable ZIP script to patch and disable AVB VBMeta verification flags across MediaTek and Android devices.*
 
-</div>
+### 🛠️ [ROM-Toolkit](https://github.com/sheikhmehraann/ROM-Toolkit)
+*Low-level Android ROM porting, image unpacking, dynamic partition rebuilding, and vendor modification scripts for XOS 15 / AOSP.*
+
+### 🛡️ [Antigravity-Jailbreak](https://github.com/sheikhmehraann/Antigravity-Jailbreak)
+*Experimental LLM security research and guardrail stress-testing framework.*
 
 ---
 
