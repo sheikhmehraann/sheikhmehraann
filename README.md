@@ -1,47 +1,62 @@
 # Sheikh Mehraan
 
-**Android System & Security Engineer | ARM64 & Bootchain Security Researcher**  
-*Specializing in Low-Level MediaTek Exploitation, Linux Kernel Subsystems, and Custom Android Architecture.*
+**Multi-Disciplinary Software Engineer & Security Researcher**  
+*Systems Programming | Android Platform & Kernel Security | Windows Utilities | AI Security Research*
 
 ---
 
-## 🔬 About & Focus Areas
+## 🔬 Engineering Portfolio & Domains
 
-I am an Android low-level developer and security researcher focused on bootchain security, low-level platform exploitation, and kernel subsystem architecture.
+I work across software engineering, operating system internals, reverse engineering, and AI security:
 
-- **ARM64 & Bootchain Security**: Vulnerability research and patch engineering for MediaTek bootloader components (`Preloader`, `bl2_ext`, `LK`).
-- **Android Verified Boot (AVB)**: Hardware-level security state emulation (`ro.boot.verifiedbootstate`, `ro.boot.flash.locked`).
-- **Kernel Subsystems**: Linux Kernel 5.10+ VFS mount namespace isolation, syscall-level path filtering, and KernelSU integration.
-- **Platform Porting**: Android 15 (XOS 15) vendor/system image rebuilding and dynamic partition architecture.
+- **Android Bootchain & Platform Security**: Exploit development and patch engineering for MediaTek bootloaders (`LK`, `Preloader`, `bl2_ext`), AVB state spoofing, and KernelSU VFS mount isolation.
+- **Android OS & Custom ROM Development**: Low-level image unpacking, dynamic partition rebuilding, vendor modifications, and AOSP / XOS 15 porting.
+- **Windows System Utilities**: High-performance desktop utilities, native C#/C++ memory management, and system optimization software.
+- **AI & Security Research**: LLM security evaluation, guardrail stress-testing, and automated vulnerability analysis.
 
 ---
 
-## 🛠️ Technical Competencies
+## 🛠️ Multi-Domain Competencies
 
-| Category | Primary Technologies & Tooling |
+| Domain | Core Stack & Technologies |
 | :--- | :--- |
-| **Systems & Languages** | C, C++20, ARM64 Assembly, Python 3, Bash, PowerShell |
-| **Bootloader & Firmware Security** | MediaTek LK, Preloader (EL3), AVB 2.0, `seccfg`, GFH Containers |
-| **Reverse Engineering** | Ghidra, IDA Pro, Binary Disassembly, Memory Inspection |
-| **Kernel & OS Internals** | Linux Kernel 5.10+, VFS, Mount Namespaces, KernelSU, Android 15 |
-| **DevOps & Tooling** | Git, Cross-Platform Automation, ADB / Fastboot Internals |
+| **Languages** | C, C++20, ARM64 Assembly, Python 3, C#, Bash, PowerShell |
+| **Android Systems & Firmware** | MediaTek LK, Preloader (EL3), AVB 2.0, KernelSU, VFS Syscalls, XOS 15, AOSP |
+| **Windows & Desktop Development** | Win32 API, Native Memory Management, C# .NET, System Utilities |
+| **Security & Reverse Engineering** | Ghidra, IDA Pro, Binary Analysis, AI Guardrail Research, LLM Stress-Testing |
+| **Tooling & Infrastructure** | Git, Cross-Platform Automation, ADB / Fastboot Internals, Docker |
 
 ---
 
-## 📁 Key Repositories
+## 📁 Open Source Projects Across Domains
 
-### 🐺 [Fenrir — MediaTek Bootchain Exploit Framework](https://github.com/sheikhmehraann/fenrir)
+### 📱 Android Systems & Bootloader Security
+
+#### 🐺 [Fenrir — MediaTek Bootchain Exploit Framework](https://github.com/sheikhmehraann/fenrir)
 *PoC exploit and hardware patch framework targeting MediaTek EL3 bootchain vulnerabilities on Infinix GT 20 Pro (`X6871`).*
 - Hardware-level `ro.boot.verifiedbootstate = green` enforcement for Play Integrity.
 - Hardware lock state spoofing (`LKS_LOCK`) for TEE and DRM compatibility.
-- Unrestricted Fastboot command dispatcher and key combination boot routing.
-- Native 1-click build (`build.py`) and automated flasher (`flash.py`) tooling.
+- Includes Windows 1-click build (`build.py`) and automated flasher (`flash.py`) tooling.
 
-### ⚡ [Disable-Vbmeta-Flashable](https://github.com/sheikhmehraann/Disable-Vbmeta-Flashable)
-*Recovery-flashable utility script to patch AVB VBMeta verification flags across MediaTek and Android platforms.*
+#### ⚡ [Disable-Vbmeta-Flashable](https://github.com/sheikhmehraann/Disable-Vbmeta-Flashable)
+*Universal recovery-flashable utility script to patch AVB VBMeta verification flags across MediaTek and Android devices.*
 
-### 🛠️ [ROM-Toolkit](https://github.com/sheikhmehraann/ROM-Toolkit)
+#### 🛠️ [ROM-Toolkit](https://github.com/sheikhmehraann/ROM-Toolkit)
 *Low-level Android ROM porting, image unpacking, dynamic partition rebuilding, and vendor modification scripts.*
+
+---
+
+### 💻 Windows Utilities & Systems Programming
+
+#### 🖥️ [WinMemoryCleaner](https://github.com/sheikhmehraann/WinMemoryCleaner)
+*Lightweight, high-performance memory optimization and system cleanup utility for Windows.*
+
+---
+
+### 🧠 AI Security & Research
+
+#### 🛡️ [Antigravity-Jailbreak](https://github.com/sheikhmehraann/Antigravity-Jailbreak)
+*Experimental LLM security evaluation framework and guardrail stress-testing methodology.*
 
 ---
 
