@@ -1,51 +1,75 @@
-# Hi there, I'm Sheikh Mehraan (@sheikhmehraann) 👋
+<div align="center">
 
-```text
-  _  _  _       _ _     __  __     _                                
- | || |(_)  ___| | |__ |  \/  |___| |_ _ _ __ _ __ _ _ _  _ _      
- | __ || | / -_) | '  \| |\/| / -_) ' \ '_/ _` / _` | ' \| ' \     
- |_||_||_| \___|_|_|_|_|_|  |_\___|_||_|_| \__,_\__,_|_||_|_||_|    
-```
+  # 🐺 Sheikh Mehraan (@sheikhmehraann)
+  ### *Android Low-Level & Bootchain Exploit Engineer | KernelSU & Custom ROM Developer*
 
-### 🚀 Android Bootloader, Kernel & Low-Level Exploit Developer
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=MediaTek+EL3+Bootloader+Exploits;ARM64+Assembly+%26+Reverse+Engineering;KernelSU+%26+VFS+Mount+Isolation;Android+15+%2F+XOS+15+ROM+Porting)](https://git.io/typing-svg)
 
-I specialize in **MediaTek bootloader exploitation (LK/Preloader)**, **ARM64 low-level reverse engineering**, **Android ROM porting (XOS 15 / AOSP)**, and **KernelSU kernel integration**.
+  ---
 
----
+  [![GitHub Followers](https://img.shields.io/github/followers/sheikhmehraann?style=for-the-badge&logo=github&color=7b2cbf)](https://github.com/sheikhmehraann)
+  [![Telegram](https://img.shields.io/badge/Telegram-@mehraann19-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehraann19)
+  [![Primary Device](https://img.shields.io/badge/Primary%20Device-Infinix%20GT%2020%20Pro%20(X6871)-9d4edd?style=for-the-badge)](https://github.com/sheikhmehraann/fenrir)
 
-## 🛠️ Tech Stack & Expertise
-
-- **Low-Level & Reverse Engineering**: ARM64 Assembly, C, C++, Python, `liblk`, Ghidra, IDA Pro
-- **Android System & Security**: MediaTek LK / Preloader, AVB (Android Verified Boot), `seccfg` Bypass, Play Integrity Spoofing
-- **Root & Kernel**: KernelSU, Magisk, Custom Kernel Compiling (Linux 5.10+), VFS Mount Isolation
-- **Tools & Automation**: Python 1-Click Builders, Fastboot Automation, ADB Scripting, MTK Container Analyzers
+</div>
 
 ---
 
-## 🏆 Featured Projects
+## 👨‍💻 About Me
+
+I am a security researcher and Android low-level developer specializing in **MediaTek ARM64 bootloader exploitation (LK / Preloader)**, **hardware-level AVB & lock state spoofing**, **KernelSU integration**, and **AOSP / XOS 15 ROM porting**.
+
+- 🔭 **Currently Working On**: Maintenance & enhancement of [Fenrir X6871](https://github.com/sheikhmehraann/fenrir) for MediaTek Dimensity 8200 platforms.
+- ⚡ **Core Focus**: Bypassing bootchain verification at EL3, kernel VFS mount isolation, and native ROM-level root concealment.
+- 💬 **Ask Me About**: ARM64 Assembly, MediaTek `bl2_ext` logic flaws, `seccfg` manipulation, Play Integrity hardware spoofing, and KernelSU.
+
+---
+
+## 🛠️ Technical Skill Matrix
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Low-Level & Assembly** | `ARM64 Assembly`, `C`, `C++20`, `Python 3`, `Bash`, `PowerShell` |
+| **Bootloader & Security** | `MediaTek LK`, `Preloader (EL3)`, `AVB 2.0`, `seccfg`, `GFH Containers`, `Ghidra`, `IDA Pro` |
+| **Kernel & Android Systems** | `Linux Kernel 5.10+`, `KernelSU`, `VFS Syscalls`, `Zygisk`, `XOS 15`, `AOSP Build System` |
+| **Tooling & Automation** | `liblk`, `Fastboot Automation`, `ADB Scripting`, `Git`, `Windows / Linux Systems` |
+
+---
+
+## 🏆 Featured Repositories
+
+<div align="center">
 
 ### 🐺 [Fenrir — Infinix GT 20 Pro (X6871)](https://github.com/sheikhmehraann/fenrir)
-> **MediaTek EL3 Bootchain Exploit & Hardware Patch Framework for Infinix GT 20 Pro (`X6871`)**
-> - Hardware-level AVB **GREEN** state spoofing for 100% Play Integrity.
-> - Hardware `LKS_LOCK` status spoofing for Widevine L1 & Banking app compatibility.
-> - Unrestricted Fastboot command execution & custom volume button boot routing.
-> - Includes Windows 1-click Python builder (`build.py`) and fastboot flasher (`flash.py`).
+*PoC exploit and patch framework for MediaTek Dimensity EL3 bootchain vulnerabilities on Infinix GT 20 Pro (`X6871`).*
+
+```text
+• 🟢 Hardware AVB GREEN State Spoofing (Passes Play Integrity & SafetyNet)
+• 🔒 Hardware LKS_LOCK Status Spoofing (Widevine L1 & Banking Apps)
+• 🔓 Unrestricted Fastboot Command Execution & Flash Unlock
+• ⌨️ Direct Hardware Volume Key Bootloader Navigation
+• 🛠️ Includes Windows 1-Click Builder (build.py) & Fastboot Flasher (flash.py)
+```
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&count_private=true" alt="Sheikh Mehraan's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmehraann&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+
+</div>
 
 ---
 
-## 📬 Connect With Me
-
-- **Telegram**: [@mehraann19](https://t.me/mehraann19)
-- **GitHub**: [@sheikhmehraann](https://github.com/sheikhmehraann)
-
----
-*⚡ "Controlling MediaTek's bootchain, one byte at a time."*
+<div align="center">
+  <sub><i>⚡ "Controlling MediaTek's bootchain, one byte at a time." — Sheikh Mehraan</i></sub>
+</div>
