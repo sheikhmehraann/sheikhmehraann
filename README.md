@@ -105,20 +105,9 @@
 
 ---
 
-### 📊 Repository Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sheikh Mehraan's Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 📬 Connect
+
+<div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2EA6DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehraann19)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheikhmehraann)
