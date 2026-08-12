@@ -1,30 +1,30 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,36&height=220&section=header&text=%E2%9A%A1%20SHEIKH%20MEHRAAN%20%E2%9A%A1&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Systems%20Engineer%20%7C%20Low-Level%20Security%20Researcher&descSize=18&descAlign=50&descAlignY=70" width="100%" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=SHEIKH%20MEHRAAN&fontSize=42&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20Low-Level%20Security%20Researcher&descSize=16&descAlign=50&descAlignY=68" width="100%" alt="Sheikh Mehraan Header" />
 
 <br/>
 
-<!-- Animated Glowing Typing Headline -->
+<!-- Typing Headline -->
 <a href="https://github.com/sheikhmehraann">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=ARM64+Architecture+%26+MediaTek+Bootchain+Security;EL3+Exception+Level+Forensics+%26+LKS_LOCK+Spoofing;Native+Win32+C%2B%2B%2FC%23+Systems+Programming;AI+Security+Evaluation+%26+Guardrail+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=ARM64+Architecture+%26+MediaTek+Bootchain+Security;EL3+Exception+Level+Forensics+%26+LKS_LOCK+Spoofing;Native+Win32+C%2B%2B%2FC%23+Systems+Programming;AI+Security+Evaluation+%26+Guardrail+Research" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Modern Glow Badges -->
+<!-- Badges -->
 <p align="center">
   <a href="https://github.com/sheikhmehraann?tab=followers">
-    <img src="https://img.shields.io/github/followers/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=2563eb&labelColor=0f172a" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=1e293b&labelColor=0f172a" alt="Followers" />
   </a>
   <a href="https://github.com/sheikhmehraann?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=7c3aed&labelColor=0f172a&label=Total%20Stars" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=1e293b&labelColor=0f172a&label=Stars" alt="Stars" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=0284c7&labelColor=0f172a&label=Profile%20Views">
-    <img src="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=0284c7&labelColor=0f172a&label=Profile%20Views" alt="Views" />
+  <a href="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=1e293b&labelColor=0f172a&label=Views">
+    <img src="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=1e293b&labelColor=0f172a&label=Views" alt="Views" />
   </a>
   <a href="https://github.com/sheikhmehraann/fenrir">
-    <img src="https://img.shields.io/badge/Focus-ARM64%20%2F%20EL3%20Security-ff6b00?style=for-the-badge&logo=arm&logoColor=ffffff&labelColor=0f172a" alt="Focus" />
+    <img src="https://img.shields.io/badge/Target-ARM64%20%2F%20EL3-ff6b00?style=for-the-badge&logo=arm&logoColor=ffffff&labelColor=0f172a" alt="Target" />
   </a>
 </p>
 
@@ -32,28 +32,26 @@
 
 ---
 
-### 💻 Developer Terminal
+### 💻 Developer Profile
 
-```bash
-┌── (sheikhmehraannarch-linux) - [~/research]
-└─$ cat developer_profile.json
+```json
 {
-  "name": "Sheikh Mehraan",
-  "role": "Systems Software Engineer & Security Researcher",
-  "domains": [
+  "developer": "Sheikh Mehraan",
+  "title": "Systems Software Engineer & Security Researcher",
+  "location": "India",
+  "specialization": [
     "ARM64 Exception Level (EL3) Forensics",
-    "MediaTek Dimensity Bootchain Policy Exploitation",
-    "Native Windows Win32 Memory Management & Utilities",
-    "LLM Safety Guardrail Stress-Testing & Security"
+    "MediaTek Dimensity Bootchain Security Bypasses",
+    "Win32 / NT Native API Systems Software & Memory Management",
+    "LLM Safety Guardrail Stress-Testing & Security Research"
   ],
-  "lead_project": "https://github.com/sheikhmehraann/fenrir",
-  "status": "Engineering low-level exploits & high-performance systems code 🚀"
+  "lead_repository": "https://github.com/sheikhmehraann/fenrir"
 }
 ```
 
 ---
 
-## 🔬 Core Specializations & Architecture
+### 🔬 Core Research & Architecture
 
 ```
 ┌── [01] BOOTCHAIN & HARDWARE SECURITY
@@ -74,80 +72,45 @@
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
+#### **Languages & Assembly**
+![ARM64 Assembly](https://img.shields.io/badge/ARM64_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python 3](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C# .NET](https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### **Languages & Core Systems**
-<p>
-  <img src="https://img.shields.io/badge/ARM64_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-### **Systems, Reverse Engineering & Security Tools**
-<p>
-  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android_Internals-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Win32-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-002244?style=for-the-badge&logo=hex-rays&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-</div>
+#### **Systems, Reverse Engineering & Security Tools**
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android Internals](https://img.shields.io/badge/Android_Internals-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows Win32](https://img.shields.io/badge/Windows_Win32-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-002244?style=for-the-badge&logo=hex-rays&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🐺 <a href="https://github.com/sheikhmehraann/fenrir">Fenrir</a></h3>
-      <p>MediaTek Dimensity EL3 bootchain exploit framework. Enforces hardware green state spoofing (<code>ro.boot.verifiedbootstate=green</code>) & <code>LKS_LOCK</code> across 16+ ARM64 devices (Infinix ZERO 40 5G, GT 20 Pro, etc.).</p>
-      <p><code>Python</code> · <code>C</code> · <code>ARM64</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://github.com/sheikhmehraann/Disable-Vbmeta-Flashable">Disable-Vbmeta-Flashable</a></h3>
-      <p>Universal recovery-flashable utility script to patch AVB VBMeta verification flags across MediaTek and Android platforms.</p>
-      <p><code>Shell</code> · <code>Edify</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🛠️ <a href="https://github.com/sheikhmehraann/ROM-Toolkit">ROM-Toolkit</a></h3>
-      <p>Low-level Android ROM porting toolchain for dynamic partition rebuilding, vendor image unpacking, and XOS modifications.</p>
-      <p><code>Python</code> · <code>Shell</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🖥️ <a href="https://github.com/sheikhmehraann/WinMemoryCleaner">WinMemoryCleaner</a></h3>
-      <p>High-performance, lightweight Windows system memory optimizer and cleanup utility using native Win32 APIs.</p>
-      <p><code>C#</code> · <code>.NET</code> · <code>Win32</code></p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Stack | Status |
+| :--- | :--- | :---: | :---: |
+| 🐺 **[Fenrir](https://github.com/sheikhmehraann/fenrir)** | MediaTek Dimensity EL3 bootchain exploit framework. Enforces hardware green state spoofing (`ro.boot.verifiedbootstate=green`) & `LKS_LOCK` across 16+ ARM64 devices. | `Python` · `C` · `ARM64` | `Active` |
+| ⚡ **[Disable-Vbmeta-Flashable](https://github.com/sheikhmehraann/Disable-Vbmeta-Flashable)** | Universal recovery-flashable utility script to patch AVB VBMeta verification flags across MediaTek platforms. | `Shell` · `Edify` | `Stable` |
+| 🛠️ **[ROM-Toolkit](https://github.com/sheikhmehraann/ROM-Toolkit)** | Low-level Android ROM porting toolchain for dynamic partition rebuilding, vendor image unpacking, and XOS modifications. | `Python` · `Shell` | `Maintained` |
+| 🖥️ **[WinMemoryCleaner](https://github.com/sheikhmehraann/WinMemoryCleaner)** | High-performance, lightweight Windows system memory optimizer and cleanup utility using native Win32 APIs. | `C#` · `.NET` · `Win32` | `Active` |
+| 🧠 **[Antigravity-Jailbreak](https://github.com/sheikhmehraann/Antigravity-Jailbreak)** | Experimental LLM security evaluation framework and safety guardrail stress-testing methodology. | `Python` · `Security` | `Research` |
 
 ---
 
-## 📈 Activity & Contribution Graph
+### 📊 Repository Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhmehraann&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=3b82f6&text_color=94a3b8&bg_color=0f172a" alt="Sheikh Mehraan's Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide=html,css" alt="Top Languages" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmehraann&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="99%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sheikh Mehraan's Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="49%" />
 
 </div>
 
@@ -155,17 +118,13 @@
 
 <div align="center">
 
-### 📬 Connect with Me
+### 📬 Connect
 
-<p align="center">
-  <a href="https://t.me/mehraann19">
-    <img src="https://img.shields.io/badge/Telegram-2EA6DE?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/sheikhmehraann">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2EA6DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehraann19)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheikhmehraann)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,36&height=80&section=footer" width="100%" />
+<br/>
+
+<sub>Crafted with precision for low-level systems & security engineering.</sub>
 
 </div>
