@@ -1,23 +1,30 @@
 <div align="center">
 
-<!-- Header Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=SHEIKH%20MEHRAAN&fontSize=42&fontColor=f8fafc&desc=Systems%20Engineer%20%7C%20ARM64%20%26%20Bootchain%20Security%20Researcher&descSize=16&descAlign=50&descAlignY=68&stroke=304156&strokeWidth=1" width="100%" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,28&height=220&section=header&text=SHEIKH%20MEHRAAN&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Systems%20Engineer%20%7C%20Low-Level%20Security%20Researcher&descSize=18&descAlign=50&descAlignY=70" width="100%" />
 
 <br/>
 
-<!-- Modern Status Badges -->
+<!-- Typing SVG -->
+<a href="https://github.com/sheikhmehraann">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=750&lines=ARM64+Architecture+%26+MediaTek+Bootchain+Security;EL3+Exception+Level+Forensics+%26+LKS_LOCK+Spoofing;Native+Win32+C%2B%2B%2FC%23+Systems+Programming;AI+Security+Evaluation+%26+Guardrail+Research" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Badges -->
 <p align="center">
   <a href="https://github.com/sheikhmehraann?tab=followers">
-    <img src="https://img.shields.io/github/followers/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=1e293b&labelColor=0f172a" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=2563eb&labelColor=0f172a" alt="Followers" />
   </a>
   <a href="https://github.com/sheikhmehraann?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=1e293b&labelColor=0f172a&label=Stars" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/sheikhmehraann?style=for-the-badge&logo=github&logoColor=ffffff&color=7c3aed&labelColor=0f172a&label=Stars" alt="Stars" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=1e293b&labelColor=0f172a&label=Views">
-    <img src="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=1e293b&labelColor=0f172a&label=Views" alt="Views" />
+  <a href="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=0284c7&labelColor=0f172a&label=Profile%20Views">
+    <img src="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=0284c7&labelColor=0f172a&label=Profile%20Views" alt="Views" />
   </a>
   <a href="https://github.com/sheikhmehraann/fenrir">
-    <img src="https://img.shields.io/badge/Architecture-ARM64%20%2F%20MediaTek-1e293b?style=for-the-badge&logo=arm&logoColor=ffffff&labelColor=0f172a" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Focus-ARM64%20%2F%20EL3%20Security-ff6b00?style=for-the-badge&logo=arm&logoColor=ffffff&labelColor=0f172a" alt="Focus" />
   </a>
 </p>
 
@@ -25,47 +32,71 @@
 
 ---
 
-### 👋 Hi, I'm Sheikh Mehraan
+## ⚡ Hello World, I'm Sheikh Mehraan 👋
 
-I am a **Systems Engineer & Low-Level Security Researcher**. My work revolves around hardware security policy evaluation, exception level forensics (**EL3**), OS kernel internals, and native high-performance utilities.
+I am a **Systems Engineer & Low-Level Security Researcher** focused on hardware security policies, exception level forensics (**EL3**), OS kernel internals, and high-performance native software.
 
-I specialize in reverse engineering ARM64 bootloaders, exploiting hardware policy gaps in MediaTek Dimensity chipsets, and engineering low-overhead Windows system software.
-
----
-
-### 🔬 What I'm Currently Working On
-
-- 🐺 **[Fenrir](https://github.com/sheikhmehraann/fenrir)** — Maintaining an open-source MediaTek Dimensity EL3 bootchain exploit framework supporting 16+ devices (`X6861`, `X6871`, `mt6878`, `mt6895`), featuring hardware green state spoofing (`ro.boot.verifiedbootstate=green`) and lock state spoofing (`LKS_LOCK`) for Strong Play Integrity.
-- ⚡ **ARM64 & TrustZone Forensics** — Reverse engineering MediaTek `bl2_ext` security policy routines, hardware lock states, and AVB VBMeta verification flags.
-- 🖥️ **Win32 & Systems Engineering** — Architecting lightweight, native C# / C++ system utilities and memory management engines for Windows environments.
-- 🧠 **AI Security & Guardrail Analysis** — Conducting vulnerability analysis on LLM safety boundaries and stress-testing guardrail frameworks.
+My core research involves reverse engineering ARM64 bootloaders, bypassing security policy restrictions on MediaTek Dimensity chipsets, and engineering low-overhead Windows memory management utilities.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🔬 Core Engineering Domains
 
-<div align="left">
+```
+01 / BOOTCHAIN & HARDWARE SECURITY
+  ├── MediaTek Dimensity bl2_ext security policy bypasses
+  ├── Hardware lock state spoofing (LKS_LOCK) & ro.boot.verifiedbootstate=green
+  └── Strong Play Integrity hardware state enforcement on 16+ ARM64 devices
 
-#### **Languages & Assembly**
-`ARM64 Assembly` · `C (C11/C20)` · `C++20` · `Python 3` · `C# (.NET Core)` · `Bash` · `PowerShell`
+02 / SYSTEMS & OS PROGRAMMING
+  ├── High-performance Win32 native memory optimization (C# / C++)
+  ├── Dynamic partition rebuilding & Android vendor image unpacking
+  └── Low-overhead Windows NT Native API system utilities
 
-#### **Systems & Kernel Engineering**
-`Linux Kernel` · `Android Internals (AOSP)` · `Windows Win32 / NT Native API` · `ARM TrustZone` · `AVB`
+03 / REVERSE ENGINEERING & AI SECURITY
+  ├── Binary analysis & firmware disassembling (Ghidra, IDA Pro, GDB)
+  ├── LLM safety guardrail evaluation & prompt injection stress-testing
+  └── Automated vulnerability detection in system binaries
+```
 
-#### **Reverse Engineering & Analysis**
-`Ghidra` · `IDA Pro` · `GDB` · `QEMU` · `LLVM / Clang` · `Git`
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### **Languages & Assembly**
+<p>
+  <img src="https://img.shields.io/badge/ARM64_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+### **Systems, Reverse Engineering & Security Tools**
+<p>
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android_Internals-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Win32-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-002244?style=for-the-badge&logo=hex-rays&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🐺 <a href="https://github.com/sheikhmehraann/fenrir">Fenrir</a></h3>
-      <p>MediaTek Dimensity EL3 bootchain exploit framework. Enforces hardware green state spoofing (<code>ro.boot.verifiedbootstate=green</code>) & <code>LKS_LOCK</code> across 16+ ARM64 devices.</p>
+      <p>MediaTek Dimensity EL3 bootchain exploit framework. Enforces hardware green state spoofing (<code>ro.boot.verifiedbootstate=green</code>) & <code>LKS_LOCK</code> across 16+ ARM64 devices (Infinix ZERO 40 5G, GT 20 Pro, etc.).</p>
       <p><code>Python</code> · <code>C</code> · <code>ARM64</code></p>
     </td>
     <td width="50%" valign="top">
@@ -90,7 +121,7 @@ I specialize in reverse engineering ARM64 bootloaders, exploiting hardware polic
 
 ---
 
-### 📊 Activity & Analytics
+## 📊 Analytics & Activity
 
 <div align="center">
 
@@ -105,7 +136,9 @@ I specialize in reverse engineering ARM64 bootloaders, exploiting hardware polic
 
 ---
 
-### 📬 Connect
+<div align="center">
+
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://t.me/mehraann19">
@@ -116,6 +149,6 @@ I specialize in reverse engineering ARM64 bootloaders, exploiting hardware polic
   </a>
 </p>
 
-<p align="center">
-  <sub>Crafted with precision for low-level systems & security engineering.</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,28&height=80&section=footer" width="100%" />
+
+</div>
