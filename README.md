@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,36&height=220&section=header&text=%E2%9A%A1%20SHEIKH%20MEHRAAN%20%E2%9A%A1&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Systems%20Engineer%20%7C%20Low-Level%20Security%20Researcher&descSize=18&descAlign=50&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,36&height=220&section=header&text=%E2%9A%A1%20SHEIKH%20MEHRAAN%20%E2%9A%A1&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Systems%20Engineer%20%7C%20Low-Level%20Security%20Researcher&descSize=18&descAlign=50&descAlignY=70" width="100%" />
 
 <br/>
 
@@ -24,10 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=sheikhmehraann&style=for-the-badge&color=0284c7&labelColor=0f172a&label=Profile%20Views" alt="Views" />
   </a>
   <a href="https://github.com/sheikhmehraann/fenrir">
-    <img src="https://img.shields.io/badge/Target-ARM64%20%2F%20MediaTek-ff6b00?style=for-the-badge&logo=arm&logoColor=ffffff&labelColor=0f172a" alt="Target" />
-  </a>
-  <a href="https://github.com/sheikhmehraann/fenrir/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3-00e676?style=for-the-badge&logo=gnu&logoColor=ffffff&labelColor=0f172a" alt="License" />
+    <img src="https://img.shields.io/badge/Focus-ARM64%20%2F%20EL3%20Security-ff6b00?style=for-the-badge&logo=arm&logoColor=ffffff&labelColor=0f172a" alt="Focus" />
   </a>
 </p>
 
@@ -35,11 +32,24 @@
 
 ---
 
-## ⚡ Hello, I'm Sheikh Mehraan 👋
+### 💻 Developer Terminal
 
-I am a **Systems Engineer & Low-Level Security Researcher**. I specialize in hardware security policy evaluation, exception level forensics (**EL3**), OS kernel internals, and native high-performance software.
-
-My core research focuses on reverse engineering ARM64 bootloaders, exploiting security policy restrictions on MediaTek Dimensity chipsets, and engineering low-overhead Windows memory management utilities.
+```bash
+┌── (sheikhmehraannarch-linux) - [~/research]
+└─$ cat developer_profile.json
+{
+  "name": "Sheikh Mehraan",
+  "role": "Systems Software Engineer & Security Researcher",
+  "domains": [
+    "ARM64 Exception Level (EL3) Forensics",
+    "MediaTek Dimensity Bootchain Policy Exploitation",
+    "Native Windows Win32 Memory Management & Utilities",
+    "LLM Safety Guardrail Stress-Testing & Security"
+  ],
+  "lead_project": "https://github.com/sheikhmehraann/fenrir",
+  "status": "Engineering low-level exploits & high-performance systems code 🚀"
+}
+```
 
 ---
 
@@ -68,7 +78,7 @@ My core research focuses on reverse engineering ARM64 bootloaders, exploiting se
 
 <div align="center">
 
-### **Languages & Assembly**
+### **Languages & Core Systems**
 <p>
   <img src="https://img.shields.io/badge/ARM64_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -124,9 +134,13 @@ My core research focuses on reverse engineering ARM64 bootloaders, exploiting se
 
 ---
 
-## 📊 Analytics & Activity
+## 📈 Activity & Contribution Graph
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhmehraann&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=3b82f6&text_color=94a3b8&bg_color=0f172a" alt="Sheikh Mehraan's Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide=html,css" alt="Top Languages" width="49%" />
