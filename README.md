@@ -32,46 +32,60 @@
 
 ---
 
-### 💻 Developer Terminal
+### ⚡ Profile Overview
 
-```bash
-┌── (sheikhmehraann@arm64-kernel) - [~/research]
-└─$ cat developer_profile.json
-{
-  "name": "Sheikh Mehraan",
-  "role": "Systems Software Engineer & Security Researcher",
-  "location": "India",
-  "domains": [
-    "ARM64 Exception Level (EL3) Forensics",
-    "MediaTek Dimensity Bootchain Policy Exploitation",
-    "Native Windows Win32 Memory Management & Utilities",
-    "LLM Safety Guardrail Stress-Testing & Security"
-  ],
-  "lead_project": "https://github.com/sheikhmehraann/fenrir",
-  "status": "Engineering low-level exploits & high-performance systems code 🚀"
-}
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Core Domain</h4>
+      <p>Systems Software Engineering & Low-Level Security Research</p>
+      <h4>📍 Focus Architecture</h4>
+      <p>ARM64 Exception Level (EL3) Forensics · MediaTek Dimensity · Win32 Kernel</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐺 Lead Project</h4>
+      <p><a href="https://github.com/sheikhmehraann/fenrir"><b>Fenrir Exploitation Framework</b></a></p>
+      <h4>🚀 Engineering Status</h4>
+      <p>Actively developing hardware security policy bypasses & native system utilities</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔬 Core Specializations & Architecture
+### 🔬 Technical Specializations & Research
 
-```
-┌── [01] BOOTCHAIN & HARDWARE SECURITY
-│   ├── MediaTek Dimensity bl2_ext security policy bypasses
-│   ├── Hardware lock state spoofing (LKS_LOCK) & ro.boot.verifiedbootstate=green
-│   └── Strong Play Integrity state enforcement across 16+ ARM64 devices
-│
-├── [02] SYSTEMS & OS PROGRAMMING
-│   ├── High-performance Win32 native memory optimization (C# / C++)
-│   ├── Dynamic partition rebuilding & Android vendor image unpacking
-│   └── Low-overhead Windows NT Native API system utilities
-│
-└── [03] REVERSE ENGINEERING & AI SECURITY
-    ├── Firmware disassembling & binary forensics (Ghidra, IDA Pro, GDB)
-    ├── LLM safety guardrail evaluation & prompt injection stress-testing
-    └── Automated vulnerability detection in system binaries
-```
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ Bootchain Security</h3>
+      <ul>
+        <li>MediaTek <code>bl2_ext</code> policy bypasses</li>
+        <li>Hardware lock state spoofing (<code>LKS_LOCK</code>)</li>
+        <li><code>ro.boot.verifiedbootstate=green</code> enforcement</li>
+        <li>Strong Play Integrity across 16+ ARM64 devices</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Systems Programming</h3>
+      <ul>
+        <li>Native Win32 system software (C# / C++)</li>
+        <li>Dynamic partition rebuilding</li>
+        <li>Android vendor image unpacking</li>
+        <li>Low-overhead Windows NT Native API utilities</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 Vulnerability Research</h3>
+      <ul>
+        <li>Firmware disassembling & binary forensics</li>
+        <li>Ghidra & IDA Pro static analysis</li>
+        <li>LLM safety guardrail stress-testing</li>
+        <li>Automated binary vulnerability detection</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
