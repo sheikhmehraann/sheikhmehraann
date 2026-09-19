@@ -213,8 +213,14 @@
 ## 📊 Live GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmehraann&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sheikhmehraann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8" height="175" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sheikhmehraann&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8" height="175" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sheikhmehraann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
 </div>
 
 <br/>
