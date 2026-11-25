@@ -4,17 +4,15 @@ I'm Sheikh Mehraan (also online as `sheikh mehraann`, `sheikhmehraan`, `Mehraann
 
 ## Public repos
 
-### Bootloader, kernel, and OS bring-up
+### Bootloader and kernel
 - [Fenrir-X6871](https://github.com/sheikhmehraann/Fenrir-X6871) - MediaTek LittleKernel (LK) payload injector and AVB/verified boot patcher for the Infinix GT 20 Pro (X6871) on Android 16.
 - [Renkai-X6871](https://github.com/sheikhmehraann/Renkai-X6871) - Patched LittleKernel (`lk`) and bootloader images for X6871 on XOS 14 and XOS 15 (Android 14 and 15).
 - [gki-5.10-kernel-builder](https://github.com/sheikhmehraann/gki-5.10-kernel-builder) - GitHub Actions workflow that builds Android GKI 5.10.270 with APatch root and packages an AnyKernel3 zip.
-- [X6871-iOS-Port](https://github.com/sheikhmehraann/X6871-iOS-Port) - Experimental Darwin XNU / iOS 16 bring-up attempt for the Infinix GT 20 Pro (ARM64 boot shim, DeviceTree builder, and early driver stubs).
 
 ### Firmware, OTA, and flashing tools
-- [SpeedFlasher](https://github.com/sheikhmehraann/SpeedFlasher) - Turns partition dumps (`.img` / `.img.zst`) into recovery-flashable zips and Fastboot flasher scripts for Windows, Linux, and Termux, with `vbmeta` flag controls.
+- [Newbies-Flasher](https://github.com/sheikhmehraann/Newbies-Flasher) - Zero-dependency Python GUI and CLI that packages raw, Android sparse, or zstd partition images into recovery-flashable zips on Windows, Linux, macOS, and Termux, with `lptools` dynamic partition and AVB 2.0 `vbmeta` support.
 - [Transsion-Firmware-Toolkit](https://github.com/sheikhmehraann/Transsion-Firmware-Toolkit) - CLI and GitHub Actions scripts for probing, extracting, repacking (`.tar.zst`), and flashing Transsion (Infinix, Tecno, itel) OTAs.
 - [transsion-flashable-builder](https://github.com/sheikhmehraann/transsion-flashable-builder) - Builds A/B recovery-flashable zips from Transsion stock firmware dumps using `lptools` and zstd.
-- [OTA-Extract](https://github.com/sheikhmehraann/OTA-Extract) - GitHub Actions extractor for pulling partition images out of full and incremental Android `payload.bin` OTAs.
 
 ### Android mods and utilities
 - [OnePeek](https://github.com/sheikhmehraann/OnePeek) - Small libxposed (API 102 / LSPosed) module for Google One that queries Play Billing offers and free trials and shows the raw pricing phases.
