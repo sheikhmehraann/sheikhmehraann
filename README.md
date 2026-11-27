@@ -1,12 +1,13 @@
 # Sheikh Mehraan
 
-I'm Sheikh Mehraan (also online as `sheikh mehraann`, `sheikhmehraan`, `Mehraann`, and `mehraann19`), a developer from Kashmir. I work on low-level Android internals, MediaTek bootloaders, kernel builds, and firmware tools, mostly around the Infinix GT 20 Pro (X6871 / MediaTek Dimensity 8200 Ultimate / MT6895).
+I'm Sheikh Mehraan (also online as `SheikhMehraan`, `sheikhmehraann`, `sheikh mehraann`, `sheikhmehraan`, `Mehraann`, and `mehraann19`), a developer from Kashmir. I work on low-level Android internals, MediaTek bootloaders, custom recoveries, kernel builds, and firmware tools, mostly around the Infinix GT 20 Pro (X6871 / MediaTek Dimensity 8200 Ultimate / MT6895).
 
 ## Public repos
 
-### Bootloader and kernel
+### Bootloader, kernel, and recovery
 - [Fenrir-X6871](https://github.com/sheikhmehraann/Fenrir-X6871) - MediaTek LittleKernel (LK) payload injector and AVB/verified boot patcher for the Infinix GT 20 Pro (X6871) on Android 16.
 - [Renkai-X6871](https://github.com/sheikhmehraann/Renkai-X6871) - Patched LittleKernel (`lk`) and bootloader images for X6871 on XOS 14 and XOS 15 (Android 14 and 15).
+- [X6871-Recovery-Project](https://github.com/sheikhmehraann/X6871-Recovery-Project) - Multi-recovery Android 16 (Linux 6.12 GKI) `vendor_boot` device tree and GitHub Actions builder for Infinix GT 20 Pro (TWRP, YARP, OrangeFox, AERA, PBRP, SHRP) with Trustonic decryption, touch, and haptics patches.
 - [gki-5.10-kernel-builder](https://github.com/sheikhmehraann/gki-5.10-kernel-builder) - GitHub Actions workflow that builds Android GKI 5.10.270 with APatch root and packages an AnyKernel3 zip.
 
 ### Firmware, OTA, and flashing tools
@@ -23,7 +24,7 @@ I'm Sheikh Mehraan (also online as `sheikh mehraann`, `sheikhmehraan`, `Mehraann
 
 ## What I use
 
-Python, C, ARM64 assembly, Kotlin, Shell, Batch, and C#. Most of the Android work uses LittleKernel, AVB/VBMeta, `lptools`, `payload.bin`, AnyKernel3, Magisk/KernelSU/APatch, LSPosed, and GitHub Actions.
+Python, C, C++, ARM64 assembly, Kotlin, Makefile, Shell, Batch, and C#. Most of the Android work uses LittleKernel, AVB/VBMeta, `vendor_boot`, `lptools`, `payload.bin`, AnyKernel3, TWRP/OrangeFox, Magisk/KernelSU/APatch, LSPosed, and GitHub Actions.
 
 ## Where to find me
 
