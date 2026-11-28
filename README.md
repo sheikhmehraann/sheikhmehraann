@@ -1,6 +1,6 @@
 # Sheikh Mehraan
 
-I'm Sheikh Mehraan (also online as `SheikhMehraan`, `sheikhmehraann`, `sheikh mehraann`, `sheikhmehraan`, `Mehraann`, and `mehraann19`), a developer from Kashmir. I work on low-level Android internals, MediaTek bootloaders, custom recoveries, kernel builds, and firmware tools, mostly around the Infinix GT 20 Pro (X6871 / MediaTek Dimensity 8200 Ultimate / MT6895).
+I'm Sheikh Mehraan, a developer from Kashmir. Most of my time goes into MediaTek bootloaders, custom recoveries, Android kernels, and flashing tools, mainly for the Infinix GT 20 Pro (X6871 / MT6895).
 
 ## Public repos
 
